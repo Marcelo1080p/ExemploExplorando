@@ -1,0 +1,14 @@
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+D:\Users\Public\Documents\curso-c#\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
